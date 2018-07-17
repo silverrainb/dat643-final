@@ -5,6 +5,5 @@
 ## File Organization
 	1) Overview
 	2) Data Preparation and Exploratory Data Analysis
-	3) Recommendation_SVD
-    4) Recommendation_ALS
-    5) Recommendation_TFIDF
+    3) Implicit Matrix Factorization using ALS
+    4) ALS spark databricks
