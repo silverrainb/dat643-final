@@ -1,6 +1,6 @@
 # DATA643: Recommender System
 ## Final Project
-### <i> Harpreet Shoker, Rose Koh, Summer 2018 </i>
+### <i> Harpreet Shoker, Rose Jones, Summer 2018 </i>
 
 ## File Organization
 
